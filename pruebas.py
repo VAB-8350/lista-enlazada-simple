@@ -1,3 +1,0 @@
-
-
-print('pepe' > 'carlos')
